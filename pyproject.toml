@@ -1,0 +1,25 @@
+[project]
+name = "projeto-final-git"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Samyle Sousa"}
+]
+requires-python = ">=3.13"
+dependencies = [
+    "duckdb<2",
+    "earthengine-api>=1.7.53",
+    "geemap>=0.39.0",
+    "geobr>=2.1.1",
+    "geopandas>=1.2.0",
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "osmnx>=2.2.0",
+    "pandas>=3.1.1",
+    "python-dotenv>=1.2.4",
+    "scikit-learn>=1.9.1",
+    "shapely>=2.2.0",
+]
+
+
